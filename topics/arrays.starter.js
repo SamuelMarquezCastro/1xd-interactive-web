@@ -6,11 +6,11 @@
 */
 
 // 1 — Maak een array `meals` met drie van je favoriete maaltijden en log het naar de console
-let meals = ["sushi", "pasta", "fritjes"];
+let meals = ["sushi", "pasta", "pizza"];
 console.log(meals);
 
 // 2 — Maak een array `drinks` met drie van je favoriete drankjes en log het naar de console
-let drinks = ["cola", "water", "koffie"];
+let drinks = ["bruiswater", "platwater", "thee"];
 console.log(drinks);
 
 // 3 - Maak een variabele `lastmeal` die het laatste item uit de `meals` array opslaat
